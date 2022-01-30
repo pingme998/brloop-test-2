@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM pingme998/ub-lite
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update 
